@@ -9,5 +9,6 @@ This project is using...
 Getting started :
 
 1: Clone the repo from https://github.com/maninder123/NeuroFlash-BubbleCharts.git
+
 2: Open the index.html file in your browser.
 
