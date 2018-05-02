@@ -1,6 +1,6 @@
 # NeuroFlash-BubbleCharts
 
-This project is using...
+Used Dependencies: 
 
 1) d3.js version-4
 2) angularjs version 1.x
